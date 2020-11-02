@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #2b2b2b;
+}
+
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.main {
+    text-align: center;
+}
+
+.main img {
+    width: 400px;
+    border-radius: 50%;
+}
+
+
+.main h3 {
+    font-weight: normal;
+}
+
+footer {
+    text-align: center;
+}
+
+.socialMedia ul {
+    list-style-type: none;
+}
+
+.socialMedia li {
+    margin-bottom: 10px;
+}
+
+.socialMedia li a {
+    text-decoration: none;
+    color: #2b2b2b;
+}
+
+.socialMedia li a:hover {
+    color: #050505;
+}
+
+.socialMedia li:hover .fa-instagram {
+    color: rgb(234, 54, 90);
+}
+
+.socialMedia li:hover .fa-facebook {
+    color: rgb(0, 86, 247);
+}
